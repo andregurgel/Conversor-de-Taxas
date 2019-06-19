@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calcular Taxas</string>
+    <string name="tv_juros">Tipo de Juros:</string>
+    <string name="tv_taxa">Taxa atual:</string>
+    <string name="et_taxa">Taxa</string>
+    <string name="bt_transform">Calcular</string>
+    <string name="ad_taxas">Taxas</string>
+    <string name="ad_voltar">Voltar</string>
+
+    <string-array name="cb_type">
+        <item>Juros Simples</item>
+        <item>Juros Composto</item>
+    </string-array>
+
+    <string-array name="cb_tempo">
+        <item>a. d.</item>
+        <item>a. m.</item>
+        <item>a. b.</item>
+        <item>a. t.</item>
+        <item>a. s.</item>
+        <item>a. a.</item>
+    </string-array>
+</resources>
